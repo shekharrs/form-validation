@@ -15,7 +15,11 @@ Built with VanillaJS this form has all the required validation to get an authent
 -   Shekhar Thakur - follow me on 👇
 -   [GitHub](https://github.com/shekharrs)
 -   [LinkedIn](https://www.linkedin.com/in/thakurshekhar/)
+  
 
+## Live Link
+
+https://formvalidationtologin.netlify.app
 
 
 ## Run Locally
